@@ -27,11 +27,12 @@ function Navbar() {
       </div>
       <nav className="main-nav">
         <ul>
+          
           <li>
           <Link to="./Login">Sign In</Link>
           </li>
           <li>
-          <Link to="./Product">product</Link>
+          <Link to="/Product">Products</Link>
           </li>
           <li>
           <Link to="./Signup">Signup</Link>

@@ -12,11 +12,11 @@ const Home = () => {
 
       <div className="kitchen">
       <div  className="kitchenimage">
-      <Link to="/Product"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/2020/12/kithchen-tools-768x602.jpg" alt="" /></Link>
+      <Link to="./Product"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/2020/12/kithchen-tools-768x602.jpg" alt="" /></Link>
       </div>
 
       <div  className="kitchenimage">
-      <Link to="/Home"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/2020/12/Air-Tight-Containers-768x602.jpg" /></Link>
+      <Link to="./Home"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/2020/12/Air-Tight-Containers-768x602.jpg" /></Link>
       </div>
 
       <div  className="kitchenimage">
@@ -26,7 +26,7 @@ const Home = () => {
 
       <div className="kitchenware"><h2>FOOT WEAR</h2></div>
       <div  className="first-image">
-      <Link to="/Home"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/elementor/thumbs/men-fashion-pf2rgkwglk7z47uh031vpxcshl64adc389ivxapmss.jpg" alt="" /></Link>
+      <Link to="./Home"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/elementor/thumbs/men-fashion-pf2rgkwglk7z47uh031vpxcshl64adc389ivxapmss.jpg" alt="" /></Link>
       </div>
 
       <div className="footware">
@@ -35,7 +35,7 @@ const Home = () => {
       </div>
 
       <div  className="footwareimage">
-      <Link to="/Home"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/2020/12/Foot-Wear-2-400x601.jpg" /></Link>
+      <Link to="./Home"><img className="firstimage1" src="https://www.uboric.com/wp-content/uploads/2020/12/Foot-Wear-2-400x601.jpg" /></Link>
       </div>
 
       <div  className="footwareimage">

@@ -1,7 +1,7 @@
 
 import React from 'react'
 import {data} from "./avinash"
-import {Prod} from "./product"
+import {Prod} from "./ProdutOne"
 import "./productOne.css"
 export const Product = () => {
     console.log(data)
