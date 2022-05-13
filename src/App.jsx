@@ -28,9 +28,6 @@ export const App = () => {
        <Route path="/Addtocart" element={<Addtocart />} ></Route>
        <Route path="/Footer" element={<Footer />} ></Route>
        <Route path="/Product" element={<Product />} ></Route>
-      
-      
-       
      </Routes>
      <Footer/>
    </div>
